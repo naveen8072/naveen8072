@@ -1,1 +1,9 @@
-Hey there, I'm Naveen kumar.S, UG 3 Year at SRM Institute of Science and Technology (SRMIST), pursuing a Bachelor of Technology in Computer Science. I am an enthusiastic and driven individual who is always eager to take on new challenges and solve complex problems. As a budding computer scientist, I am continuously striving to expand my knowledge and skills. I believe that the key to success is not just what you know, but also how you approach learning. That's why I always keep an open mind and an insatiable curiosity, so I can keep up with the rapidly evolving tech industry. With a motivated attitude and a variety of powerful skills, I am confident that I can make a positive impact in the world of technology. I am excited to share my journey and my projects with you on my Git page, and I hope to connect with other developers who share my passion for innovation and progress.
+<h1 align="center">Hi 👋, I'm NAVEEN KUMAR.S</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
